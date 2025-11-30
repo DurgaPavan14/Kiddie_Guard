@@ -1,0 +1,4 @@
+sample_path,true_label,pred_label,confidence
+data/test\comedic\sample_001,comedic,comedic,0.4838
+data/test\non-violent\sample_001,non-violent,non-violent,0.4729
+data/test\violent\sample_001,violent,violent,0.5145
