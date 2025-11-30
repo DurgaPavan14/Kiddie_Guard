@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+venv311/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# SQLite database
+feedback.db
+
+# Media & uploads
+static/output/
+uploads/
+feedback/
+model/violent_non_violent_model.keras
+
+# TensorFlow / Keras checkpoints
+*.h5
+*.keras
+
+# Frontend (Node / Vite / React)
+frontend/node_modules/
+frontend/frontend/node_modules/
+frontend/dist/
+frontend/frontend/dist/
+
+# Environment / OS-specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
